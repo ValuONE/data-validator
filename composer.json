@@ -1,0 +1,16 @@
+{
+    "name": "valu/post-validator",
+    "description": "A library to validate data in an easy way",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Valu\\PostValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ValuONE"
+        }
+    ],
+    "require": {}
+}
